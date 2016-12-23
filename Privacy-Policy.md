@@ -88,7 +88,7 @@ If you are a registered user, you can access most information associated with yo
 
 #### How to Delete Your Account and What Happens When You Delete Your Account
 
-If you want to delete your Account, you can do so by emailing us at info@Echo.io and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. 
+If you want to delete your Account, you can do so by emailing us at info@echopodcasts.com and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner. Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. 
 
 #### Changes to This Privacy Policy
 We may amend this Privacy Policy from time to time, using the process for modifications set forth in our Terms of Service. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
